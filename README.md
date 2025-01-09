@@ -19,4 +19,4 @@ CSS: For styling and making the user interface visually appealing.
 JavaScript: For handling the user input, performing the calculations, and updating the output dynamically.
 
 # Project URL Link:
-[Live project link](https://naveenkumar705.github.io/Temperature/)
+(https://naveenkumar705.github.io/Temperature/)
