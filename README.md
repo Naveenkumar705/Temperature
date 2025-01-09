@@ -2,7 +2,7 @@
 
 (https://roadmap.sh/projects/temperature-converter)
 
-# Project Description:
+# Project Description
 
 The Temperature Converter project is a simple tool that allows users to convert temperatures between different units: Celsius, Fahrenheit, and Kelvin. 
 This tool takes user input, processes the temperature value, and converts it to the desired unit. 
